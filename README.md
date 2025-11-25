@@ -9,15 +9,6 @@
     Passionate about <b>Software Engineering</b> and currently exploring the potential of <b>Web3</b> technologies.
   </p>
 
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=icannns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Ikhsan's Stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icannns&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Top Languages" />
-    </a>
-  </p>
-
   <br>
 
   <h3>🛠️ Tech Stack</h3>
